@@ -1,0 +1,38 @@
+body{background:rgb(64, 107, 226);}
+.content{margin-top:0%; display: flex; font-family: 'Nanum Gothic';}
+.col-md-4{padding: 30px 10px;border: 2px solid #fff;
+   background-image: url(""); 
+    height: 100%; 
+    background-position:top;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-md-8{border: 2px solid #fff;  }
+.titlu{font-size:2.3em; color:rgb(255, 255, 255); text-transform:uppercase;  }
+.vremea{color:rgb(251, 251, 251); font-size:10em; -webkit-text-stroke-width: 4px; -webkit-text-stroke-color: black; }
+.temperatura{color:rgb(253, 253, 253); font-size:6em; position:relative; top:-40px; }
+.umiditate{color:rgb(255, 255, 255); font-size:3em; position:relative; top:-40px;}
+.vant{color:rgb(255, 255, 255); font-size:3em; position:relative; top:-40px;}
+.presiune{color:rgb(252, 252, 252); font-size:3em; position:relative; top:-35px;}
+.ChooseCity span{color:#fff; font-size: 2em;}
+#oras{ font-size: 2em; margin-top: 0.5em;}
+.titleTommonrow{ color:#fff; font-size: 1.6em; margin-top:0.4em;text-align: center;}
+.titleAfterTommonrow { font-size: 1.6em; color:#fff;text-align: center;margin-top: 0.4em;}
+.WeatherTommonrow{display: flex; border:1px solid #fff; padding:10px; font-size: 1.6em; margin-top: 0.6em;text-align: center;}
+.ora3{margin-right: 30px;color: #fff; margin-left: 37px;}
+.humidity3 i{font-size: 0.7em;}
+.ora6{margin-right: 30px;}
+.humidity6 i{font-size: 0.7em;}
+.ora9{margin-right: 30px;color:#fff;}
+.humidity9 i{font-size: 0.7em;}
+.ora12{margin-right: 30px;}
+.humidity12 i{font-size: 0.7em;}
+.ora15{margin-right: 30px;color:#fff;}
+.humidity15 i{font-size: 0.7em;}
+.ora18{margin-right: 30px;}
+.humidity18 i{font-size: 0.7em;}
+.ora21{color:#fff; margin-right: 30px;}
+.humidity21 i{font-size: 0.7em;}
+.humidity0 i{font-size: 0.7em;}
+
+

@@ -1,0 +1,1 @@
+http://api.openweathermap.org/data/2.5/weather?q=Turda,ro&appid=878f7ebe7c17602e944d2532f5b4d96d&units=metric
